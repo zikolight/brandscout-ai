@@ -1,0 +1,22 @@
+# Core Framework
+flask==3.0.0
+gunicorn==21.2.0
+
+# AI APIs
+google-generativeai==0.3.1
+anthropic==0.7.0
+
+# Data Sources
+praw==7.7.1
+google-api-python-client==2.108.0
+requests==2.31.0
+
+# Database
+firebase-admin==6.3.0
+
+# PDF Generation
+reportlab==4.0.7
+markdown==3.5.1
+
+# Utilities
+python-dotenv==1.0.0
